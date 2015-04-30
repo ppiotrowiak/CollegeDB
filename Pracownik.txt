@@ -1,0 +1,6 @@
+1,Dr,Piotr,Pajak
+2,Doc,Stanislaw,Wieckowski
+3,Dr hab.,Jerzy,Zaba
+4,Prof. dr hab.,Edmund,Ziolkowski
+5,Dr inz.,Hanna,Planeta-Kula
+6,Prof. dr inz.,Adam,Placek

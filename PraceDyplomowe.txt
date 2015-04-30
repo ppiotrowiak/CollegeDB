@@ -1,0 +1,6 @@
+1,Warunki hydrogeologiczne w powiecie Myszkowskim,1,3,4
+2,Budowa triasu Sosnowieckiego,0,2,2
+3,Chemizm wod jezior poludniowej Polski,1,4,3
+4,Wystepowanie pokladow wegla brunatnego w centralnej Polsce,0,5,3
+5,Zastosowanie wapienia jurajskiego w budownictwie,1,6,4
+6,Budowa kawern w pokladach soli,0,7,4

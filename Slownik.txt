@@ -1,0 +1,13 @@
+1,budowa
+2,warunki
+3,chemizm
+4,wody
+5,jura
+6,trias
+7,powiat
+8,sosnowiec
+9,poklady
+10,zrodla
+11,eksploatacja
+12,geologia
+13,geografia
